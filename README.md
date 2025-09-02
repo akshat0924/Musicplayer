@@ -6,10 +6,10 @@ This project replicates the Spotify UI with sidebar navigation, library section,
 🚀 Features:
 
 •🎨 Modern Spotify-like UI.
-•📂 Sidebar with navigation & library
-•💿 Playlist/Album cards
-•🎶 Bottom fixed music player bar
-•📱 Responsive design (works on different screen sizes)
+•📂 Sidebar with navigation & library.
+•💿 Playlist/Album cards.
+•🎶 Bottom fixed music player bar.
+•📱 Responsive design (works on different screen sizes).
 
 🛠️ Tech Stack:
 
