@@ -13,5 +13,6 @@ This project replicates the Spotify UI with sidebar navigation, library section,
 
 🛠️ Tech Stack:
 
+
 •HTML5
 •CSS3 (Flexbox, Media Queries, Positioning)
